@@ -1,0 +1,16 @@
+{
+    "todos":[
+        {
+            "id": 0,
+            "isDone": false,
+            "content": "Here are the details to my first two do list. Yippie!",
+            "title": "To Do #1"
+        },
+        {
+            "id": 1,
+            "isDone": false,
+            "content": "Here are the details to my second two do list. Hazaaa!",
+            "title": "To Do #2"
+        }
+    ]
+}
